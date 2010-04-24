@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icon-abc.png</file>
+        <file>resources/icon-automatic.png</file>
+        <file>resources/icon-kanji.png</file>
+        <file>resources/icon-romaji.png</file>
+        <file>resources/default-text.html</file>
+        <file>resources/logo-jisho.ico</file>
+        <file>resources/icon-go.png</file>
+        <file>resources/kana.txt</file>
+        <file>resources/no-result.html</file>
+    </qresource>
+</RCC>
